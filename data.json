@@ -1,0 +1,47 @@
+{
+    "leaf" : {
+        "name" : "Leaf",
+        "description" : "This is a leaf.",
+        "image" : "imgs/anatoliy-shostak-y4RdfxKglYM-unsplash.jpg"
+    },
+    "sunFlower" : {
+        "name" : "Sun Flower",
+        "description" : "This is a sunflower.",
+        "image" : "img/brooke-balentine-JCziX9QxEGo-unsplash.jpg"
+    },
+    "waterfall" : {
+        "name" : "Waterfall",
+        "description" : "This is a waterfall.",
+        "image" : "imgs/ed-wingate-ZqggK6JPRiI-unsplash.jpg"
+    },
+    "mountain" : {
+        "name" : "Mountain",
+        "description" : "This is a mountain.",
+        "image" : "imgs/emma-swoboda-S3VN38KFe48-unsplash.jpg"
+    },
+    "duck" : {
+        "name" : "Duck",
+        "description" : "This is a duck.",
+        "image" : "imgs/fynn-zentner-xqb1L7gJ5TE-unsplash.jpg"
+    },
+    "sunset" : {
+        "name" : "Sunset",
+        "description" : "This is a sunset.",
+        "image" : "imgs/kristaps-ungurs-x8Oro9-tG64-unsplash.jpg"
+    },
+    "fish" : {
+        "name" : "Fish",
+        "description" : "This is a fish.",
+        "image" : "imgs/maahid-photos-YCUSXBo8VdY-unsplash.jpg"
+    },
+    "elk" : {
+        "name" : "Elk",
+        "description" : "This is an elk.",
+        "image" : "imgs/martin-bennie-pUOW-fNcNZ0-unsplash.jpg"
+    },
+    "cardinal" : {
+        "name" : "Cardinal",
+        "description" : "This is a cardinal.",
+        "image" : "imgs/timothy-dykes-_aNtQKnffAA-unsplash.jpg"
+    }
+}
