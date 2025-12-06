@@ -6,7 +6,8 @@
     <title>Art Portfolio</title>
 </head>
 <body>
-    <img src="/imgs/anatoliy-shostak-y4RdfxKglYM-unsplash.jpg" alt="">
-    
+    <% for (let item in data) { %>
+        <img src="<%= data[item].image %>" alt="<%= data[item].description %>">
+    <% } %>    
 </body>
 </html>
